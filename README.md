@@ -9,7 +9,8 @@ https://app.powerbi.com/groups/me/reports/001f46aa-9558-43ea-97f9...
 
 📋 Project Description
 Interactive dashboard for data analysis using Power BI
-
+Phon: 009630936390661
+Email: mohamadnasser0022@gmail.com
 🎯 Key Features
 ✅ Visual data analysis
 
